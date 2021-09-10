@@ -1,0 +1,41 @@
+////----------------------------- PROTOCOLS ------------------------------////
+
+Sets the Rules of Data Package
+
+--->>> TCP / IP Transport Data
+
+--->>> HTTP / HTTPS Web Access
+
+--->>> RTP Live Video Streaming VOIP Calls
+
+////----------- APPLICATION PROGRAMMING INTERFACE ---------------////
+
+Set of Programming Codes that enables Data Transmission between one Software Product and Another
+
+////------------------------- HOW API WORKS ----------------------------////
+
+Web App in Browser <- Request / Response -> [ Internet ] <------> { API } <-------> Web Server -------- Database
+
+////------------------------- TYPES OF API --------------------------------////
+
+--->>> PRIVATE
+
+--->>> PARTNER
+
+--->>> PUBLIC
+
+////--------------------------------- REST ----------------------------------////
+
+Representatable State Transfer
+
+-> Simple and Standard -> Scalable and Stateless -> High Perfomance, can be cached
+
+Create -------> POST Read -------> GET Update -------> PUT Delete -------> DELETE
+
+////----------------------------- REQUEST ---------------------------------////
+
+-> Header -> Param / Body -> Operations -> End Point
+
+////----------------------------- RESPONSE -------------------------------////
+
+-> Header -> JSON
